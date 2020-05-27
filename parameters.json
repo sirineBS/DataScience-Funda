@@ -1,0 +1,18 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "workspaces_Databricks_DS_Fundamentals_value": {
+            "value": null
+        },
+        "workspaces_Databricks_DS_Fundamentals_value_1": {
+            "value": null
+        },
+        "workspaces_Databricks_DS_Fundamentals_value_2": {
+            "value": null
+        },
+        "workspaces_Databricks_DS_Fundamentals_name": {
+            "value": null
+        }
+    }
+}
