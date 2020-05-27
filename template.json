@@ -27,7 +27,7 @@
                 "name": "standard"
             },
             "properties": {
-                "managedResourceGroupId": "[concat('/subscriptions/25d21fc9-3166-4009-8bf0-294f0911f4d7/resourceGroups/databricks-rg-', parameters('workspaces_Databricks_DS_Fundamentals_name'), '-p4ijaziledhyu')]",
+                "managedResourceGroupId": "[concat('/subscriptions/25d21fc9-3166-4009-8bf0-294f0911f4d7/resourceGroups/databricks-rg-', parameters('workspaces_Databricks_DS_Fundamentals_name'), '-test')]",
                 "parameters": {
                     "customPrivateSubnetName": {
                         "type": "String",
